@@ -28,12 +28,6 @@ I’m a graduate computer science student with hands-on experience building **ma
 
 ---
 
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rishika-shivanna&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishika-shivanna&layout=compact)
-
----
-
 📫 **Contact**
 - Email: rshivanna@binghamton.edu  
 - LinkedIn: https://linkedin.com/in/rishika-shivanna
