@@ -2,7 +2,7 @@
 
 🎓 MS in Computer Science (AI Track) @ Binghamton University  
 💻 AI/ML • Software Engineering • Data Systems  
-📍 Binghamton, NY
+📍 Ann Arbor, MI
 
 ---
 
