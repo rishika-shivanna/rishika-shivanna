@@ -30,4 +30,4 @@ I’m a graduate computer science student with hands-on experience building **ma
 
 📫 **Contact**
 - Email: rshivanna@binghamton.edu  
-- LinkedIn: https://linkedin.com/in/rishika-shivanna
+
