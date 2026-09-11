@@ -1,8 +1,8 @@
 # Hi, I’m Rishika Shivanna 👋
 
 🎓 MS in Computer Science (AI Track) @ Binghamton University  
-💻 AI/ML • Software Engineering • Data Systems  
-📍 Ann Arbor, MI
+💻 AI/ML • Software Engineering • Forward Deployed Engineer  
+📍 Binghamton, NY
 
 ---
 
