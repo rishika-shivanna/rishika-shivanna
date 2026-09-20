@@ -1,33 +1,62 @@
-# Hi, I’m Rishika Shivanna 👋
+# Hi, I'm Rishika 👋
 
-🎓 MS in Computer Science (AI Track) @ Binghamton University  
-💻 AI/ML • Software Engineering • Forward Deployed Engineer  
-📍 Binghamton, NY
+### Software Engineer | Backend • Distributed Systems • Cloud • AI
 
----
+I'm a Software Engineer with 3+ years of experience building backend
+systems, APIs, data pipelines, and cloud-native applications.
 
-## ✨ About Me
-I’m a graduate computer science student with hands-on experience building **machine learning models, scalable backend systems, and full-stack web platforms**. I enjoy turning data into insights and building products that are reliable, efficient, and user-centric.
+I enjoy working on distributed systems, production performance,
+developer infrastructure, and AI-powered applications.
 
----
+🎓 MS Computer Science (AI) — Binghamton University
+💻 Backend & Full-Stack Software Engineering
+☁️ AWS • Docker • Kubernetes • CI/CD
+🤖 RAG • LLMs • AI Agents • Vector Search
 
-## 🧰 Tech Stack
-**Languages:** Python, Java, C, C++, JavaScript, SQL  
-**AI/ML:** Scikit-learn, TensorFlow, PyTorch, XGBoost, Pandas, NumPy  
-**Web:** React, Node.js, Flask, REST APIs, Tailwind CSS  
-**Cloud & DevOps:** AWS (EC2, S3, IAM), GCP, Docker, CI/CD  
-**Tools:** Git, GitHub, Jira, Figma, Power BI, Linux
 
----
+## 🛠️ Tech Stack
+
+### Languages
+Java • Python • C++ • JavaScript • TypeScript • SQL
+
+### Backend
+Spring Boot • FastAPI • Django • Node.js • Express.js
+REST • GraphQL • Kafka
+
+### Frontend
+React • TypeScript • JavaScript • HTML • CSS
+
+### Cloud & DevOps
+AWS • Docker • Kubernetes • Jenkins • GitHub Actions • Linux
+
+### Databases
+PostgreSQL • MySQL • MongoDB • DynamoDB • Redis • pgvector
+
+### AI
+RAG • LangChain • LangGraph • LLMs • AI Agents
+Embeddings • Vector Search
+
 
 ## 🚀 Featured Projects
-- **Yelp Business Footfall Prediction** — ML forecasting at scale  
-- **Linux Chat Service** — Multithreaded socket programming in C  
-- **Neuva Life Sciences Web Platform** — Modern React + performance optimization  
-- **OCR-based Mobile App** — Camera + text extraction for field automation
 
----
+### 🎙️ AI Voice Interview & Meeting Intelligence Platform
+Real-time AI interview platform with streaming transcription,
+automated candidate evaluation, RAG-based interview search,
+and asynchronous report generation.
 
-📫 **Contact**
-- Email: rshivanna@binghamton.edu  
+### ⚡ Distributed Order & Inventory Platform
+Event-driven commerce platform built with Java, Spring Boot,
+Kafka, PostgreSQL, Redis, Docker, and Kubernetes.
 
+### 📊 Multi-Tenant Developer Observability Platform
+Multi-tenant platform for logs, metrics, telemetry search,
+alerts, RBAC, and automated incident analysis.
+
+### 🤖 AI Customer Support RAG Platform
+Full-stack RAG application using FastAPI, PostgreSQL/pgvector,
+React, embeddings, semantic retrieval, and source-backed responses.
+
+
+## 📫 Connect With Me
+
+LinkedIn • Portfolio • Email
