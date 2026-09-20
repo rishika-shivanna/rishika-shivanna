@@ -1,6 +1,49 @@
+<div align="center">
+
+# 👋 Hi, I'm Rishika Shivanna
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2600&pause=700&color=A855F7&center=true&vCenter=true&width=850&lines=Software+Engineer+%F0%9F%92%BB;Backend+%26+Distributed+Systems+Engineer+%E2%9A%A1;Cloud-Native+Developer+%E2%98%81%EF%B8%8F;AI+%2F+RAG+Engineer+%F0%9F%A4%96;Building+Scalable+Systems+%F0%9F%9A%80"
+  alt="Typing SVG"
+/>
+
+### 🚀 Backend • Distributed Systems • Cloud • AI
+
+</div>
+
 <br/>
 
-## 💻 Tech Stack
+## 👩‍💻 About Me
+
+```yaml
+name: Rishika Shivanna
+role: Software Engineer
+
+education:
+  degree: MS in Computer Science
+  specialization: Artificial Intelligence
+
+focus:
+  - Backend Engineering
+  - Distributed Systems
+  - Cloud-Native Applications
+  - AI / RAG Systems
+
+currently_building:
+  - AI Voice Interview Platform
+  - Distributed Order & Inventory Platform
+  - Developer Observability Platform
+
+interests:
+  - Scalable Backend Systems
+  - Event-Driven Architecture
+  - Production Performance
+  - Generative AI
+```
+
+---
+
+# 💻 Tech Stack
 
 ### 👩‍💻 Programming Languages
 
@@ -33,7 +76,7 @@
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white)
 
-### 🔄 Distributed Systems & Messaging
+### 🔄 Distributed Systems & APIs
 
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -60,6 +103,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🤖 AI / Generative AI
 
@@ -75,6 +119,7 @@
 ### 🧪 Testing & Security
 
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logoColor=white)
 ![RSpec](https://img.shields.io/badge/RSpec-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth_2.0-3C79F5?style=for-the-badge&logo=auth0&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
@@ -82,50 +127,87 @@
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 🎙️ AI Voice Interview Platform
+### 🎙️ AI Voice Interview & Meeting Intelligence
 
-Real-time AI interview and meeting intelligence platform with **streaming voice transcription, automated candidate evaluation, RAG-powered interview search, and asynchronous reporting**.
+Real-time AI interview platform featuring **streaming voice transcription, automated candidate evaluation, RAG-powered interview search, and asynchronous report generation**.
 
-`Python` `FastAPI` `React` `WebSockets` `PostgreSQL` `pgvector`
+<br/>
+
+**Built With**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=flat-square)
 
 </td>
+
 <td width="50%" valign="top">
 
 ### ⚡ Distributed Order & Inventory Platform
 
-Event-driven commerce platform with **Kafka-based order processing, inventory reservation, idempotent consumers, retries/DLQ, Redis caching, and Kubernetes deployment**.
+Event-driven commerce platform featuring **order processing, inventory reservation, idempotent Kafka consumers, retries/DLQ, Redis caching, and Kubernetes deployment**.
 
-`Java` `Spring Boot` `Kafka` `Redis` `PostgreSQL` `Kubernetes`
+<br/>
+
+**Built With**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### 📊 Developer Observability Platform
 
-Multi-tenant observability platform with **real-time dashboards, searchable telemetry, configurable alerts, RBAC, and automated incident summaries**.
+Multi-tenant observability platform for **application logs and metrics, real-time dashboards, searchable telemetry, configurable alerts, RBAC, and automated incident summaries**.
 
-`React` `TypeScript` `FastAPI` `PostgreSQL` `Redis` `OpenTelemetry`
+<br/>
+
+**Built With**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🤖 AI Customer Support RAG
+### 🤖 AI Customer Support RAG Platform
 
-Full-stack RAG platform with **document ingestion, semantic retrieval, vector search, source-backed AI responses, authentication, and asynchronous processing**.
+Full-stack AI customer-support platform featuring **document ingestion, semantic retrieval, vector search, source-backed responses, authentication, and asynchronous processing**.
 
-`Python` `FastAPI` `React` `PostgreSQL` `pgvector` `Docker`
+<br/>
+
+**Built With**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </td>
+
 </tr>
 </table>
 
@@ -133,32 +215,51 @@ Full-stack RAG platform with **document ingestion, semantic retrieval, vector se
 
 <div align="center">
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rishika-shivanna&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api?username=rishika-shivanna&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github"
+/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishika-shivanna&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishika-shivanna&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"
+/>
+
+<br/><br/>
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=rishika-shivanna&theme=tokyonight&hide_border=true&border_radius=15"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🏆 GitHub Achievements
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=rishika-shivanna&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🐍 Contribution Journey
+
+<img
+  src="https://raw.githubusercontent.com/rishika-shivanna/rishika-shivanna/output/github-contribution-grid-snake-dark.svg"
+  alt="Animated contribution snake"
+/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishika-shivanna&theme=tokyonight&hide_border=true&border_radius=12" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 Contribution Journey
-
-<img src="https://raw.githubusercontent.com/rishika-shivanna/rishika-shivanna/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-
-</div>
-
----
-
-<div align="center">
-
-### ✨ Building scalable systems, intelligent applications, and reliable software.
+### ⚡ Building scalable systems, intelligent applications, and reliable software.
 
 </div>
