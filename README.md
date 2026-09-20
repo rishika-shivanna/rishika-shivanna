@@ -93,10 +93,9 @@ Vector Search
 
 <br/>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=900&color=06B6D4&center=true&vCenter=true&width=850&lines=⚡+Designing+systems+for+scale+and+reliability;🔄+Building+event-driven+distributed+applications;☁️+Shipping+cloud-native+software;🤖+Building+with+RAG%2C+LLMs+and+AI+agents"
-  alt="Engineering interests"
-/>
+### ⚡ I build systems that scale — from distributed backends to intelligent AI applications.
+
+<br/>
 
 </div>
 
