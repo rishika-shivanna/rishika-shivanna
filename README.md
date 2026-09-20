@@ -218,31 +218,8 @@ Full-stack AI customer-support platform featuring **document ingestion, semantic
 # 📊 GitHub Analytics
 
 <img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api?username=rishika-shivanna&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github"
-/>
-
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishika-shivanna&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"
-/>
-
-<br/><br/>
-
-<img
   src="https://github-readme-streak-stats.herokuapp.com/?user=rishika-shivanna&theme=tokyonight&hide_border=true&border_radius=15"
-/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🏆 GitHub Achievements
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=rishika-shivanna&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"
+  alt="GitHub Streak"
 />
 
 </div>
@@ -253,12 +230,22 @@ Full-stack AI customer-support platform featuring **document ingestion, semantic
 
 # 🐍 Contribution Journey
 
-<img
-  src="https://raw.githubusercontent.com/rishika-shivanna/rishika-shivanna/output/github-contribution-grid-snake-dark.svg"
-  alt="Animated contribution snake"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/rishika-shivanna/rishika-shivanna/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/rishika-shivanna/rishika-shivanna/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/rishika-shivanna/rishika-shivanna/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
-<br/>
+<br/><br/>
 
 ### ⚡ Building scalable systems, intelligent applications, and reliable software.
 
