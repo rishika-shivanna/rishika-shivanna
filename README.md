@@ -13,36 +13,74 @@
 
 <br/>
 
+<div align="center">
+
 ## 👩‍💻 About Me
 
-```yaml
-name: Rishika Shivanna
-role: Software Engineer
+### Building scalable systems where **Backend Engineering meets AI** 🚀
 
-education:
-  degree: MS in Computer Science
-  specialization: Artificial Intelligence
+I'm a Software Engineer focused on building **high-performance backend systems,  
+distributed applications, cloud-native platforms, and AI-powered products.**
 
-focus:
-  - Backend Engineering
-  - Distributed Systems
-  - Cloud-Native Applications
-  - AI / RAG Systems
+<br/>
 
-currently_building:
-  - AI Voice Interview Platform
-  - Distributed Order & Inventory Platform
-  - Developer Observability Platform
+<img src="https://img.shields.io/badge/🎓_MS_Computer_Science-Artificial_Intelligence-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/💻_Software-Engineering-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/⚡_Focus-Distributed_Systems-F97316?style=for-the-badge" />
 
-interests:
-  - Scalable Backend Systems
-  - Event-Driven Architecture
-  - Production Performance
-  - Generative AI
-```
+<br/><br/>
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+<h3>⚡ Backend</h3>
+Java • Spring Boot<br/>
+Python • FastAPI<br/>
+REST • GraphQL
+</td>
+
+<td align="center" width="25%">
+<h3>🔄 Distributed</h3>
+Kafka • Redis<br/>
+Event-Driven Systems<br/>
+Microservices
+</td>
+
+<td align="center" width="25%">
+<h3>☁️ Cloud</h3>
+AWS • Docker<br/>
+Kubernetes<br/>
+CI/CD
+</td>
+
+<td align="center" width="25%">
+<h3>🤖 AI</h3>
+RAG • LLMs<br/>
+AI Agents<br/>
+Vector Search
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+### 🚧 What I'm Building
+
+<img src="https://img.shields.io/badge/🎙️_AI_Voice_Interview_Platform-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/⚡_Distributed_Order_Platform-F97316?style=for-the-badge" />
+<img src="https://img.shields.io/badge/📊_Developer_Observability-06B6D4?style=for-the-badge" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=⚡+Designing+systems+for+scale+and+reliability;🔄+Building+event-driven+distributed+applications;☁️+Shipping+cloud-native+software;🤖+Exploring+RAG%2C+LLMs+and+AI+agents" />
+
+</div>
+
+<br/>
 
 ---
-
 # 💻 Tech Stack
 
 ### 👩‍💻 Programming Languages
