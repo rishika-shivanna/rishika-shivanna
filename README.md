@@ -1,62 +1,69 @@
-# Hi, I'm Rishika 👋
-
-### Software Engineer | Backend • Distributed Systems • Cloud • AI
-
-I'm a Software Engineer with 3+ years of experience building backend
-systems, APIs, data pipelines, and cloud-native applications.
-
-I enjoy working on distributed systems, production performance,
-developer infrastructure, and AI-powered applications.
-
-🎓 MS Computer Science (AI) — Binghamton University
-💻 Backend & Full-Stack Software Engineering
-☁️ AWS • Docker • Kubernetes • CI/CD
-🤖 RAG • LLMs • AI Agents • Vector Search
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║              Hi 👋 I'm Rishika Shivanna             ║
+║                                                      ║
+║     [ ANIMATED TYPING TEXT ]                         ║
+║     Software Engineer                                ║
+║     Backend & Distributed Systems Engineer           ║
+║     AI / RAG Developer                               ║
+║     Cloud-Native Engineer                            ║
+║                                                      ║
+║       LinkedIn • Portfolio • Email • Resume          ║
+╚══════════════════════════════════════════════════════╝
 
 
-## 🛠️ Tech Stack
+                     ABOUT ME
+            ─────────────────────────
 
-### Languages
-Java • Python • C++ • JavaScript • TypeScript • SQL
-
-### Backend
-Spring Boot • FastAPI • Django • Node.js • Express.js
-REST • GraphQL • Kafka
-
-### Frontend
-React • TypeScript • JavaScript • HTML • CSS
-
-### Cloud & DevOps
-AWS • Docker • Kubernetes • Jenkins • GitHub Actions • Linux
-
-### Databases
-PostgreSQL • MySQL • MongoDB • DynamoDB • Redis • pgvector
-
-### AI
-RAG • LangChain • LangGraph • LLMs • AI Agents
-Embeddings • Vector Search
+     🎓 MS Computer Science — AI
+     💻 3+ Years Software Engineering
+     ⚡ Backend • Distributed Systems
+     ☁️ AWS • Docker • Kubernetes
+     🤖 RAG • LLMs • AI Agents
 
 
-## 🚀 Featured Projects
+              ⚡ TECHNOLOGY UNIVERSE ⚡
 
-### 🎙️ AI Voice Interview & Meeting Intelligence Platform
-Real-time AI interview platform with streaming transcription,
-automated candidate evaluation, RAG-based interview search,
-and asynchronous report generation.
+   Java    Python    TypeScript    JavaScript    C++
 
-### ⚡ Distributed Order & Inventory Platform
-Event-driven commerce platform built with Java, Spring Boot,
-Kafka, PostgreSQL, Redis, Docker, and Kubernetes.
+   Spring Boot   FastAPI   React   Node.js
 
-### 📊 Multi-Tenant Developer Observability Platform
-Multi-tenant platform for logs, metrics, telemetry search,
-alerts, RBAC, and automated incident analysis.
+   Kafka   Redis   PostgreSQL   MongoDB
 
-### 🤖 AI Customer Support RAG Platform
-Full-stack RAG application using FastAPI, PostgreSQL/pgvector,
-React, embeddings, semantic retrieval, and source-backed responses.
+   AWS   Docker   Kubernetes   GitHub Actions
+
+   LangChain   LangGraph   RAG   pgvector
 
 
-## 📫 Connect With Me
+               🚀 FEATURED PROJECTS
 
-LinkedIn • Portfolio • Email
+┌───────────────────────┐  ┌────────────────────────┐
+│ 🎙 AI Voice Platform │  │ ⚡ Distributed Orders │
+│                       │  │                        │
+│ Voice • RAG • React   │  │ Java • Kafka • Redis │
+│ FastAPI • pgvector    │  │ Spring • Kubernetes  │
+└───────────────────────┘  └────────────────────────┘
+
+┌───────────────────────┐  ┌────────────────────────┐
+│ 📊 Observability      │  │ 🤖 Customer RAG       │
+│                       │  │                        │
+│ Logs • Metrics • AWS │  │ FastAPI • pgvector    │
+│ OpenTelemetry • RBAC │  │ React • PostgreSQL    │
+└───────────────────────┘  └────────────────────────┘
+
+
+                   📊 GITHUB ANALYTICS
+
+      ┌────────────────┐ ┌─────────────────┐
+      │ GitHub Stats   │ │ Top Languages   │
+      └────────────────┘ └─────────────────┘
+
+
+              🐍 CONTRIBUTION ANIMATION
+
+     🟩🟩🟩🐍🟩🟩🟩🟩🟩🟩🟩
+           animated across contributions
+
+
+              
+             Thanks for visiting ✨
