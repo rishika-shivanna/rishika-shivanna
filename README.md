@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Rishika Shivanna
+# 👋 Hi, I'm Rishika
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=2600&pause=700&color=A855F7&center=true&vCenter=true&width=900&lines=Software+Engineer+%F0%9F%92%BB;Backend+%26+Distributed+Systems+Engineer+%E2%9A%A1;Cloud-Native+Developer+%E2%98%81%EF%B8%8F;AI+%2F+RAG+Engineer+%F0%9F%A4%96;Building+Scalable+Systems+%F0%9F%9A%80"
